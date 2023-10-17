@@ -1,0 +1,15 @@
+Student 1
+Name: Muhammad Abdullah
+Father Name: Zafar Iqbal Hameed
+CNIC: 36201-2018178-9
+Address: Dunyapur , Lodhran , Punjab , Pakistan
+Age: 19
+Blood Group: A+
+Contact Number: 03480148225
+Registration Number: F22607010
+Department: AI
+Section: 1
+Semester: 1
+Batch: Fall
+CGPA: 2022
+
